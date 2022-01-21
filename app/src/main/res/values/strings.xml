@@ -1,0 +1,11 @@
+<!-- change the texts accordingly-->
+<resources>
+    <string name="app_name">InterviewApp1_T1</string>
+    <string name="text_label_1">Task1</string>
+    <string name="text_label_2">Task2</string>
+    <string name="text_home">Home</string>
+
+    <string name="hello_blank_fragment_1"></string>
+    <string name="hello_blank_fragment_2"></string>
+    <string name="hello_blank_fragment_home"></string>
+</resources>
